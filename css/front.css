@@ -1,5 +1,5 @@
 body {
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
     background-color: rgba(0, 0, 0, 0.9);
     position: absolute; 
     top: 0;
@@ -27,9 +27,9 @@ body {
 h1 {
     color: white;
     font-weight: bold;
-    letter-spacing: 0.1em;
+    letter-spacing: 0.02em;
     font-size: 4em;
-    font-family: Arial;
+    font-family: Helvetica;
     margin: -10px 0;
 }
 h3 {
@@ -38,7 +38,7 @@ h3 {
 }
 .content {
     padding-top: 100px;
-    padding-bottom: 40px;
+    padding-bottom: 100%;
     background-color: rgba(0, 0, 0, 0.5);
     text-align: center;
 }
@@ -114,7 +114,7 @@ a:hover {
 .description {
     display: inline-block;
     color: white;
-    font-family: Arial;
+    font-family: Helvetica;
     margin-left: 40px;
 }
 .content {
