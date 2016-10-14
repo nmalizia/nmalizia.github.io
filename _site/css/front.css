@@ -29,7 +29,7 @@ h1 {
     font-weight: bold;
     letter-spacing: 0.02em;
     font-size: 4em;
-    font-family: Helvetica;
+    font-family: Source Sans Pro Light;
     margin: -10px 0;
 }
 h3 {
@@ -114,7 +114,7 @@ a:hover {
 .description {
     display: inline-block;
     color: white;
-    font-family: Helvetica;
+    font-family: Source Sans Pro Light;
     margin-left: 40px;
 }
 .content {
